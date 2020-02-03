@@ -7,3 +7,8 @@ Powershell Script that pings a host indefinitely by IP or by name until it respo
 E.g. An internet Circuit is down for one of your customers and you set it to ping the IP assigned to that circuit.
 Once it starts responding to pings, it will open a Chrome Tab with the IP.
 From there you can login into the firewall, vpn, servers or check other resources.
+
+
+Should be compatible with Powershell v5.1 and up. 
+
+If you have a suggestion for better way to script it, please let me know.
